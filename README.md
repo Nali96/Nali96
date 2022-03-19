@@ -41,7 +41,10 @@
 &nbsp; <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nali96&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="nali96" /></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>
+<br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nali96&theme=nightowl&show_icons=true&locale=en" alt="nali96" /></p>
 
 
