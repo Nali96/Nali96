@@ -2,9 +2,9 @@
 <h3 align="center">Computer Engineer, passionate coder, piano player</h3>
 
 <ul>
-<li> 🔭 I’m currently working on my <b>University Master's Degree</b></li>
+<li> 🔭 I graduated in <b>Computer Engineer with a specialization in Embedded System </b></li>
 
-<li> 🌱 I’m currently learning <b>Java and JMS, Matlab and Swift</b></li>
+<li> 🌱 I’m currently learning <b>C, C++ and Matlab</b></li>
 
 <li> 📫 How to reach me <b>annalisa.996@gmail.com</b>, <a href="https://www.linkedin.com/in/annalisa-tarantino/" target="blaank">My Linkedin Profile</a></li>
 </ul>
